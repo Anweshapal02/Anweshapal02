@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anweshapal02&label=Profile%20views&color=0e75b6&style=flat" alt="anweshapal02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anweshapal02" alt="anweshapal02" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif"
-<p align="left"> <a href="https://twitter.com/anweshapal" target="blank"><img src="https://img.shields.io/twitter/follow/anweshapal?logo=twitter&style=for-the-badge" alt="anweshapal" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/anweshapal" target="blank"><img src="https://img.shields.io/twitter/follow/anweshapal?logo=twitter&style=for-the-badge" alt="anweshapal" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anweshapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anweshapal" height="30" width="40" /></a>
