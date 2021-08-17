@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anwesha Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I'm  a passionate developer from India. I love to make cool projects and solve coding problems in my free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anweshapal02&label=Profile%20views&color=0e75b6&style=flat" alt="anweshapal02" /> </p>
 
